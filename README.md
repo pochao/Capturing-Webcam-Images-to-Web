@@ -7,7 +7,7 @@ webvideo.py利用opncv擷取影像，透過socket io將更新資訊傳給server.
 
 server.js建立一個簡易網頁伺服器及socket io伺服器，接收傳遞webvideo.py、index.html訊息
 
-index.html接收到影像更新訊息，使用jQuery更新<img>屬性 (不會重整網頁)
+index.html接收到影像更新訊息，使用jQuery更新img屬性 (不會重整網頁)
 
 安裝套件
 npm install socketio
