@@ -15,3 +15,6 @@ npm install socketio
 opkg install opencv-apps
 pip install socketIO-client-2
 ```
+版本資訊
+node js v0.12.18
+python 2.7.9
