@@ -10,6 +10,8 @@ server.js建立一個簡易網頁伺服器及socket io伺服器，接收傳遞we
 index.html接收到影像更新訊息，使用jQuery更新img屬性 (不會重整網頁)
 
 安裝套件
+```linux
 npm install socketio
 opkg install opencv-apps
 pip install socketIO-client-2
+```
